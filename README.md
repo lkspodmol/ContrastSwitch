@@ -8,6 +8,7 @@ I take NO responsibility for your actions with these programs, use them only wit
 
 This is script, that was in AutoHotkey v2.0 before compilation:
 
+```
  ;vFlags := 0x1 ;on
  vFlags := 0x0 ;off
  vSize := A_PtrSize=8?16:12
